@@ -11,9 +11,9 @@ Modidy these lines to match your postgresql server/database infromation:
 
 to run:
 make sure you have the vscode java extension pack installed
-and then run java on the .java file
+and then run java on the DatabaseOperations.java file
 
 
 youtube video link:
-https://youtu.be/KJ00c5evL3I
+https://youtu.be/a3D171ST9Rc
 
